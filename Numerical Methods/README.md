@@ -1,4 +1,4 @@
-# Repo for computational tasks.
+# Repo for computational tasks
 
 ## Task list:
 1. Term 1:
@@ -25,5 +25,7 @@ You should write the code that solves the problem and is verified by test script
         * `test_<subtask_name>.py` - test script that checks your solutions. You have several options to run it:
           * `python -m pytest path/to/test_<task_name>.py`
           * `pytest path/to/test_<task_name>.py`
-          * PyCharm: see below
         * `<subtask_name>.py` - dummy code, you should replace it with yours.
+
+## Original repository
+`https://github.com/sedefe/chm/`
